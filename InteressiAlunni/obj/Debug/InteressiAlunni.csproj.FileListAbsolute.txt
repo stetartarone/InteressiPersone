@@ -1,0 +1,10 @@
+C:\Users\steta\source\repos\InteressiAlunni\InteressiAlunni\bin\Debug\InteressiAlunni.exe.config
+C:\Users\steta\source\repos\InteressiAlunni\InteressiAlunni\bin\Debug\InteressiAlunni.exe
+C:\Users\steta\source\repos\InteressiAlunni\InteressiAlunni\bin\Debug\InteressiAlunni.pdb
+C:\Users\steta\source\repos\InteressiAlunni\InteressiAlunni\obj\Debug\InteressiAlunni.csproj.AssemblyReference.cache
+C:\Users\steta\source\repos\InteressiAlunni\InteressiAlunni\obj\Debug\InteressiAlunni.Properties.Resources.resources
+C:\Users\steta\source\repos\InteressiAlunni\InteressiAlunni\obj\Debug\InteressiAlunni.csproj.GenerateResource.cache
+C:\Users\steta\source\repos\InteressiAlunni\InteressiAlunni\obj\Debug\InteressiAlunni.csproj.CoreCompileInputs.cache
+C:\Users\steta\source\repos\InteressiAlunni\InteressiAlunni\obj\Debug\InteressiAlunni.exe
+C:\Users\steta\source\repos\InteressiAlunni\InteressiAlunni\obj\Debug\InteressiAlunni.pdb
+C:\Users\steta\source\repos\InteressiAlunni\InteressiAlunni\obj\Debug\InteressiAlunni.InteressiPersone.resources
